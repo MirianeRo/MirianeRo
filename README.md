@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MirianeRo
 - 👀 I’m interested in learn more and more
-- 🌱 I’m currently learning JavaScript on P5.
+- 🌱 I’m currently learning html e CSS
 
 
 <!---
