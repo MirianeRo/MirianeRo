@@ -1,0 +1,40 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background: linear-gradient(to left, rgb(41, 241, 181),rgb(5, 124, 11)) ;
+    color: whitesmoke;
+    text-align: center;  
+}
+.container {
+    position:absolute;
+    top:50%;
+    transform: translate(+50%,-50%);
+    width: 45%;
+    padding: 1em;
+    background-color: rgb(0, 0,0,0.5);
+    border-radius: 10px;
+}
+button {
+    background-color: slateblue;
+    color: salmon;
+    border: none;
+    padding: 1em;
+    border-radius: 10px;
+    box-shadow: 1px 1px 6px black;
+    cursor: pointer;
+}
+button:hover {
+    background-color: orangered;
+}
+.second-step,
+.third-step{
+    display: none;
+}
+imput {
+    padding: 5px;
+    border-radius: 10px;
+    border:none;
+    outline: none;
+}
+#resultado{
+    font-size: 30px;
+}
