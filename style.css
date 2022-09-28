@@ -1,0 +1,78 @@
+
+body {
+	background: lightblue;
+	background-image: url( );
+	background-size: cover;
+	background-position: inherit;
+	background-attachment: local;
+	background-repeat: no-repeat;
+}
+
+.logo-circle-div {
+	width: 100px; 
+	height: 100px;
+	position:fixed;
+	overflow: hidden;
+}
+
+.titulo-principal {
+	padding-left: 20px;
+	display:inline-block;
+	vertical-align: top;
+}
+
+#banner {
+	width: 100%
+}
+
+.principal {
+	color: black;
+	background: #ffb6c1;
+	padding: 30px;
+}
+
+.titulo-centralizado{
+	text-align: center;
+	font-size:40px;
+	font-family: cursive;
+	font-size: 52px;
+}
+
+p { 
+
+text-align: center;
+font-size: 24px;
+font-family:cursive;
+}
+
+#missão {
+	font-size: 30px;
+	font-family: cursive;
+	text-align: center;
+}
+
+em strong {
+	color:black;
+}
+.beneficios {
+	background: lightblue;
+	padding: 20px;
+}
+.foto {
+	background-color: transparent;
+	width: 100%;
+}
+.itens {
+	font-style: italic;
+	font-family: cursive;
+}
+ul {
+	display:inline-block;
+	vertical-align: top;
+	width: 20%;
+	margin-right:15%;
+}
+.imagembeneficios {
+	width: 50%;
+
+}
